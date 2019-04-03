@@ -1,0 +1,7 @@
+# ignore .cpp file
+*.cpp
+
+
+# ignore ksr directory
+/ksr
+
