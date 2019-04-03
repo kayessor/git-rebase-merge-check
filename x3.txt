@@ -1,1 +1,2 @@
 This is for merge and rebase purpose
+commit 2
